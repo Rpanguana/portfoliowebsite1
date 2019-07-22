@@ -61,22 +61,14 @@ h2{
 	size: 20px;
 }
 
-#box1{
-	background-color: #00cccc;
-	color: #ff3211;
-	margin-top: 700px;
-	margin-bottom: 700px;
-	background-image: url(mountain.jpg);
-	border-width: 30px;
+#Box1{
+	color:#a89b85;
+	margin: 120px 50px 120px 50px;
+	border-width: 80px;
 
-}
-#box1 p{
-	color: white;
-	font-size: 14px;
 }
 
  .mainfooter{
- 	background-color: #000000;
  	padding: 10px;
  	color: white;
  	text-align: center;
